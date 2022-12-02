@@ -1,46 +1,41 @@
 /*index*/
 
-
-
 input[type=text],
 input[type=password] {
     width: 100%;
     margin: 8px 0;
     padding: 12px 20px;
     display: inline-block;
-    border: 2px solid green;
+    border: 2px solid rgb(0, 0, 0);
     box-sizing: border-box;
 }
 
 button:hover {
-    opacity: 0.5;
+    opacity: 0.8;
 }
-
-.cancelbtn {
-    width: auto;
-    padding: 10px 18px;
-    margin: 10px 5px;
-}
-
 
 .container {
-    width: 515px;
-    background-color: rgba(255, 255, 255, 0);
-    padding-left: 2%;
-    padding-bottom: 5%;
-    padding-top: 5%;
-    padding-right: 5%;
-    margin-left: 0%;
+    width: 500px;
+    background-color:white; 
+    padding: 2%;
+    margin-left: 2%;
+    margin-top: 2%;
+    border-radius: 20px;
 }
 
 .butt_signin {
-    background-color: rgb(255, 255, 255);
-    color: rgb(255, 255, 255);
-    font-size: 20px;
-    margin-left: 225px;
-    display: inline-block;
-    cursor: pointer;
-    align-items: center;
+    padding-left:5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 0%;
+    color: black;
+    background-color:lavenderblush;
+    font-size: 18px;
+    text-align: left;
+    font-style: normal;
+    border-radius: 20px;
+    width: 40%;
+    margin-bottom: 10px;
 }
 
 /*home*/
