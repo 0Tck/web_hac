@@ -126,3 +126,16 @@ a {
     margin-top: 20px;
     vertical-align: text-bottom;
 }
+
+
+/*Drug*/
+
+.butt_block{
+    background-color: black;
+    width: 300px;
+    margin-left: 3%;
+}
+
+.butt_drug{
+    width: 300px;
+}
