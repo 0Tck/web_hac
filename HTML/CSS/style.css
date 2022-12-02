@@ -9,14 +9,18 @@ input[type=password] {
     border: 2px solid rgb(0, 0, 0);
     box-sizing: border-box;
 }
+h1{
+    margin-left: 2%;
+    margin-top: 3%;
+}
 
-button:hover {
+.butt_signin:hover {
     opacity: 0.8;
 }
 
 .container {
     width: 500px;
-    background-color:white; 
+    background-color:cadetblue; 
     padding: 2%;
     margin-left: 2%;
     margin-top: 2%;
@@ -29,7 +33,7 @@ button:hover {
     padding-bottom: 2%;
     padding-right: 0%;
     color: black;
-    background-color:lavenderblush;
+    background-color:beige;
     font-size: 18px;
     text-align: left;
     font-style: normal;
@@ -81,11 +85,13 @@ a {
 }
 
 .butt_home {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     display: inline-block;
     padding: 8px;
+    padding-left: 7%;
     color: rgb(0, 0, 0);
     background-color:bisque;
-    text-align: center;
+    text-align: left;
     cursor: pointer;
     width: 250px;
     border-radius: 20px;
@@ -93,23 +99,11 @@ a {
     margin-left: 0%;
     margin-bottom: 14%;
 }
-.butt_home_b{
-    display: inline-block;
-    padding: 8px;
-    color: rgb(0, 0, 0);
-    background-color:bisque;
-    text-align: center;
-    cursor: pointer;
-    width: 250px;
-    border-radius: 20px;
-    font-size: 18px;
-    margin-left: 0%;
-    margin-top: 17%;
-    margin-bottom: 0%;
-}
 
-.butt_home:hover{
-    opacity: 0.5;
+
+.butt_home:hover,
+.butt_home_b:hover{
+    opacity: 0.7;
 }
 
 
