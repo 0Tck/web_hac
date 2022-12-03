@@ -1,7 +1,7 @@
 body{
     background-color: lightblue;
 }
-.butt_re{
+.butt_drug{
     background-color: lightskyblue;
         color: rgb(2, 2, 2);
         padding: 10px;
@@ -12,4 +12,10 @@ body{
         cursor: pointer;
         margin-left: 2%;
         margin-top: 3%;
+}
+.font{
+    font-size: large;
+}
+.font2{
+    font-size: large;
 }

@@ -1,8 +1,8 @@
 body{
     background-color: lightblue;
 }
-.butt_re{
-    background-color: lightskyblue;
+.button{
+    background-color:lightskyblue;
         color: rgb(2, 2, 2);
         padding: 10px;
         width: 350px;

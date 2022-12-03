@@ -1,10 +1,10 @@
 body{
-    background-color: beige;
+    background-color: lightskyblue;
      
 }
 
 .tab{
-    font-size: large;
+    font-size: larger;
 }
 .basic{
     font-size: large;
@@ -14,13 +14,14 @@ body{
 }
 
 .vao{
-    background-color: beige;
+    background-color: cadetblue;
 }
 .head{
     font-size: xx-large;
 }
 .butt{
-    background-color: burlywood;
+    background-color:gray;
     height: 69px;   
     border-radius: 8px;
+    font-size: larger;
 }
